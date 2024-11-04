@@ -183,7 +183,9 @@ Select the new GitHub repository that you created and, in the Set up builds and 
 |Production branch | master(main)                                  |
 |Build command | pip install sphinx sphinx-rtd-theme;make html |
 |Build directory| build/html                                    |
+
 Below the configuration, make sure to set the environment variable for specifying the .PYTHON_VERSION
+
 For example:
 | Variable name      | Value  |
 | -------------- | ----- |
