@@ -178,7 +178,7 @@ Log in to the Cloudflare dashboard ↗ and select your account.
 In Account Home, select Workers & Pages > Create application > Pages > Connect to Git.
 Select the new GitHub repository that you created and, in the Set up builds and deployments section, provide the following information:
 ```
-|Configuration option |Value                                          |
+| Configuration option | Value                                          |
 | :------- | --------------------------------------------- |
 |Production branch | master(main)                                  |
 |Build command | pip install sphinx sphinx-rtd-theme;make html |
