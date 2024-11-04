@@ -179,15 +179,20 @@ make html
 登录 Cloudflare 仪表板↗并选择您的帐户。
 在账户主页中，选择Workers & Pages>创建应用程序>页面>连接到Git。
 选择您创建的新 GitHub 存储库，然后在 Set up builds and deployments （设置构建和部署） 部分中提供以下信息：
-配置选项	价值
-生产分公司	main(master)
-构建命令	pip install sphinx sphinx-rtd-theme;make html
-Build 目录	build/html
-在配置下方，确保设置环境变量以指定 .PYTHON_VERSION
-例如：
-变量名称	价值
-PYTHON_VERSION	3.7
 ```
+| 配置选项 | 价值                                          |
+| :------- | --------------------------------------------- |
+| 生产分支 | master(main)                                  |
+| 构建命令 | pip install sphinx sphinx-rtd-theme;make html |
+| 构建输出 | build/html                                    |
+
+在配置下方，确保设置环境变量以指定 .PYTHON_VERSION
+
+例如：
+
+| 环境变量       | 价值  |
+| -------------- | ----- |
+| PYTHON_VERSION | >=3.7 |
 
 ### 贡献
 ---
