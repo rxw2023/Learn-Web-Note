@@ -5,7 +5,7 @@
 ![](https://img.shields.io/github/issues/lylemi/learn-web-hacking.svg)
 ![](https://img.shields.io/github/license/lylemi/learn-web-hacking.svg)
 
-[中文版 README](https://github.com/LyleMi/Learn-Web-Hacking/blob/master/README.md) 
+[中文版 README](https://github.com/rxw2023/Learn-Web-Note/blob/master/README.md))
 
 [Link to notes](https://websec.readthedocs.io)
 
