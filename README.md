@@ -7,7 +7,7 @@
 
 [README (English version)](https://github.com/LyleMi/Learn-Web-Hacking/blob/master/README.en.md)
 
-[笔记链接](https://websec.readthedocs.io)
+[笔记链接](https://learn-web-note.pages.dev/)
 
 ### 序
 ---
